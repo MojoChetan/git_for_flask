@@ -1,8 +1,7 @@
-#/from flask import Flask
-#app = Flask(__name__)
+from flask import Flask
+app = Flask(__name__)
 
-#@app.route('/')
-#def hello():
-#    z='test'
-#    return z 
-print("Hello Git")
+@app.route('/')
+def hello():
+    z='test'
+    return z
