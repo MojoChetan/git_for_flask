@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "e:\\git_for_flask\\venvflask\\Scripts\\python.exe"
+    "python.pythonPath": "e:\\git_for_flask\\venvflask\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
